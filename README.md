@@ -6,3 +6,6 @@ Executando no prompt:
 cucumber -t@tag 
 ou 
 bundle exec cumcumber -t@tag 
+
+Capabilities: 
+https://chromedriver.chromium.org/capabilities 
